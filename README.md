@@ -4,6 +4,8 @@
 |  类别  |  题目  |  难度  |   
 |:----:|:----|:----:|
 |链表| [2. 两数相加](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) | 中等 |
+|数组| [75. 颜色分类](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 |
+|数组| [88. 合并两个有序数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |
 |二叉搜索树| [95. 不同的二叉搜索树 II](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-95.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II.md) | 中等 |
 |二叉搜索树| [96. 不同的二叉搜索树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-96.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md) | 中等 |
 |二叉树| [105. 从前序与中序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
@@ -18,4 +20,4 @@
 |二叉树| [654. 最大二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-654.%20%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
 |二叉搜索树| [1038. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-1038.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
-
+|数组| [面试题16.16. 部分排序](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-%E9%9D%A2%E8%AF%95%E9%A2%9816.16.%20%E9%83%A8%E5%88%86%E6%8E%92%E5%BA%8F.md) | 中等 |
