@@ -20,6 +20,7 @@
 |二叉树| [652. 寻找重复的子树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md) | 中等 |
 |二叉树| [654. 最大二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-654.%20%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
+|数组| [875. 爱吃香蕉的珂珂](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 |
 |数组| [977. 有序数组的平方](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) | 简单 |
 |二叉搜索树| [1038. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-1038.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
 |数组| [面试题16.16. 部分排序](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-%E9%9D%A2%E8%AF%95%E9%A2%9816.16.%20%E9%83%A8%E5%88%86%E6%8E%92%E5%BA%8F.md) | 中等 |
