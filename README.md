@@ -7,6 +7,7 @@
 |数组| [3. 无重复字符的最长子串](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) | 中等 |
 |数组| [11. 盛最多水的容器](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md) | 中等 |
 |栈| [20. 有效的括号](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md) | 简单 |
+|数组| [26. 删除有序数组中的重复项](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 |
 |数组| [75. 颜色分类](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 |
 |数组| [76. 最小覆盖子串](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md) | 困难 |
 |数组| [88. 合并两个有序数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |
