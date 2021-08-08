@@ -32,6 +32,7 @@
 |数组| [380. O(1) 时间插入、删除和获取随机元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-380.%20O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.md) | 中等 |
 |数组| [410. 分割数组的最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 困难 |
 |数组| [438. 找到字符串中所有字母异位词](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-438.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 中等 |
+|栈| [496. 下一个更大元素 I](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |二叉树| [538. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-538.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
 |数组| [567. 字符串的排列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 中等 |
 |二叉树| [652. 寻找重复的子树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md) | 中等 |
