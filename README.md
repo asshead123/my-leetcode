@@ -9,6 +9,7 @@
 |数组| [11. 盛最多水的容器](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md) | 中等 |
 |栈| [20. 有效的括号](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md) | 简单 |
 |数组| [26. 删除有序数组中的重复项](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 |
+|栈| [42. 接雨水](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
 |数组| [27. 移除元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |数组| [75. 颜色分类](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 |
 |数组| [76. 最小覆盖子串](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md) | 困难 |
@@ -26,6 +27,7 @@
 |二叉树| [226. 翻转二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 简单 |
 |二叉搜索树| [230. 二叉搜索树中第K小的元素](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md) | 中等 |
 |栈| [232. 用栈实现队列](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) | 简单 |
+|数组| [239. 滑动窗口最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
 |数组| [283. 移动零](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |二叉树| [297. 二叉树的序列化与反序列化](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md) | 困难 |
 |数组| [316. 去除重复字母](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.md) | 中等 |
@@ -33,6 +35,7 @@
 |数组| [410. 分割数组的最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 困难 |
 |数组| [438. 找到字符串中所有字母异位词](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-438.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 中等 |
 |栈| [496. 下一个更大元素 I](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
+|栈| [503. 下一个更大元素 II](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-503.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II%5B%E4%B8%AD%E7%AD%89%5D.md) | 中等 |
 |二叉树| [538. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-538.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
 |数组| [567. 字符串的排列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 中等 |
 |二叉树| [652. 寻找重复的子树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md) | 中等 |
