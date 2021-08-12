@@ -1,5 +1,5 @@
 
-## 题目地址(24. 反转链表)
+## 题目地址(剑指 Offer 24. 反转链表)
 
 https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
 
@@ -99,10 +99,14 @@ Java Code:
 class Solution {
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) return head;
-        ListNode cur = reverseList(head.next);
-        head.next.next = head;
-        head.next = null;
-        return cur;
+        ListNode prev = null, cur = head;
+        while (cur != null) {
+            ListNode next = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = next;
+        }
+        return prev;
     }
 }
 
