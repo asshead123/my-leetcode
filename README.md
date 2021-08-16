@@ -41,6 +41,7 @@
 |二叉树| [297. 二叉树的序列化与反序列化](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md) | 困难 |
 |数组| [316. 去除重复字母](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.md) | 中等 |
 |链表| [328. 奇偶链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-328.%20%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.md) | 中等 |
+|OOD| [355. 设计推特](https://github.com/asshead123/my-leetcode/blob/main/OOD-355.%20%E8%AE%BE%E8%AE%A1%E6%8E%A8%E7%89%B9.md) | 中等 |
 |数组| [380. O(1) 时间插入、删除和获取随机元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-380.%20O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.md) | 中等 |
 |数组| [410. 分割数组的最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 困难 |
 |数组| [438. 找到字符串中所有字母异位词](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-438.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 中等 |
