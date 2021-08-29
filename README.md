@@ -27,6 +27,8 @@
 |链表| [92. 反转链表 II](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-92.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II.md) | 中等 |
 |二叉搜索树| [95. 不同的二叉搜索树 II](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-95.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II.md) | 中等 |
 |二叉搜索树| [96. 不同的二叉搜索树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-96.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md) | 中等 |
+|二叉树| [102. 二叉树的层序遍历](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md) | 中等 |
+|二叉树| [104. 二叉树的最大深度](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md) | 简单 |
 |二叉树| [105. 从前序与中序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 |二叉树| [106. 从中序与后序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-106.%20%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 |二叉树| [114. 二叉树展开为链表](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-114.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md) | 中等 |
@@ -81,6 +83,7 @@
 |图| [797. 所有可能的路径](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%BE-797.%20%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
 |数组| [875. 爱吃香蕉的珂珂](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 |
+|动态规划| [887. 鸡蛋掉落](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-887.%20%E9%B8%A1%E8%9B%8B%E6%8E%89%E8%90%BD.md) | 困难 |
 |哈希表| [895. 最大频率栈](https://github.com/asshead123/my-leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8-895.%20%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md) | 困难 |
 |数组| [977. 有序数组的平方](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) | 简单 |
 |并查集| [990. 等式方程的可满足性](https://github.com/asshead123/my-leetcode/blob/main/%E5%B9%B6%E6%9F%A5%E9%9B%86-990.%20%E7%AD%89%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%BB%A1%E8%B6%B3%E6%80%A7.md) | 中等 |
