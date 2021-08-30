@@ -31,6 +31,7 @@
 |二叉树| [104. 二叉树的最大深度](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md) | 简单 |
 |二叉树| [105. 从前序与中序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 |二叉树| [106. 从中序与后序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-106.%20%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
+|二叉树| [113. 路径总和 II](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-113.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C%20II.md) | 中等 |
 |二叉树| [114. 二叉树展开为链表](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-114.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md) | 中等 |
 |二叉树| [116. 从中序与后序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md) | 中等 |
 |DFS、并查集| [130. 被围绕的区域](https://github.com/asshead123/my-leetcode/blob/main/dfs-130.%20%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.md) | 中等 |
@@ -53,6 +54,7 @@
 |数组| [295. 数据流的中位数](https://github.com/asshead123/my-leetcode/blob/main/%E5%A0%86-295.%20%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 困难 |
 |二叉树| [297. 二叉树的序列化与反序列化](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md) | 困难 |
 |动态规划| [300. 最长递增子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-300.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
+|动态规划| [312. 戳气球](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-312.%20%E6%88%B3%E6%B0%94%E7%90%83.md) | 困难 |
 |数组| [316. 去除重复字母](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.md) | 中等 |
 |动态规划| [322. 零钱兑换](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) | 中等 |
 |链表| [328. 奇偶链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-328.%20%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.md) | 中等 |
