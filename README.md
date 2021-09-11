@@ -18,6 +18,7 @@
 |动态规划| [53. 最大子序和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) | 简单 |
 |贪心| [55. 跳跃游戏](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 中等 |
 |动态规划| [64. 最小路径和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 中等 |
+|动态规划| [70. 爬楼梯](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 简单 |
 |动态规划| [72. 编辑距离](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-72.%20%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md) | 困难 |
 |数组| [75. 颜色分类](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md) | 中等 |
 |数组| [76. 最小覆盖子串](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-76.%20%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md) | 困难 |
@@ -42,6 +43,7 @@
 |链表| [160. 相交链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md) | 简单 |
 |数组| [167. 两数之和 II - 输入有序数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |
 |动态规划| [174. 地下城游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-174.%20%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.md) | 困难 |
+|动态规划| [198. 打家劫舍](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 中等 |
 |二叉树| [199. 二叉树的右视图](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-199.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md) | 中等 |
 |链表| [203. 移除链表元素](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-203.%20%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md) | 简单 |
 |二叉树| [222. 完全二叉树的节点个数](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-222.%20%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.md) | 中等 |
