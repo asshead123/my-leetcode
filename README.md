@@ -73,6 +73,7 @@
 |链表| [445. 两数相加 II](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-445.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md) | 中等 |
 |二叉树| [450. 删除二叉搜索树中的节点](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-450.%20%E5%88%A0%E9%99%A4%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md) | 中等 |
 |动态规划| [452. 用最少数量的箭引爆气球](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-452.%20%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md) | 中等 |
+|贪心| [455. 分发饼干](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md) | 简单 |
 |哈希表| [460. LFU 缓存](https://github.com/asshead123/my-leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8-460.%20LFU%20%E7%BC%93%E5%AD%98.md) | 困难 |
 |栈| [496. 下一个更大元素 I](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |栈| [503. 下一个更大元素 II](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-503.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II%5B%E4%B8%AD%E7%AD%89%5D.md) | 中等 |
@@ -89,6 +90,7 @@
 |栈| [739. 每日温度](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-739.%20%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md) | 简单 |
 |动态规划| [787. K 站中转内最便宜的航班](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-787.%20K%20%E7%AB%99%E4%B8%AD%E8%BD%AC%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%88%AA%E7%8F%AD.md) | 中等 |
 |图| [797. 所有可能的路径](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%BE-797.%20%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
+|贪心| [860. 柠檬水找零](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.md) | 简单 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
 |数组| [875. 爱吃香蕉的珂珂](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 |
 |动态规划| [887. 鸡蛋掉落](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-887.%20%E9%B8%A1%E8%9B%8B%E6%8E%89%E8%90%BD.md) | 困难 |
