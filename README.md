@@ -71,6 +71,7 @@
 |贪心| [435. 无重叠区间](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-435.%20%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md) | 中等 |
 |数组| [438. 找到字符串中所有字母异位词](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-438.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 中等 |
 |链表| [445. 两数相加 II](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-445.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md) | 中等 |
+|数学| [447. 回旋镖的数量](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-447.%20%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F.md) | 中等 |
 |二叉树| [450. 删除二叉搜索树中的节点](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-450.%20%E5%88%A0%E9%99%A4%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md) | 中等 |
 |动态规划| [452. 用最少数量的箭引爆气球](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-452.%20%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md) | 中等 |
 |贪心| [455. 分发饼干](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md) | 简单 |
