@@ -55,6 +55,7 @@
 |数组| [239. 滑动窗口最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
 |动态规划| [279. 完全平方数](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md) | 中等 |
 |数组| [283. 移动零](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
+|数学| [292. Nim 游戏](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-292.%20Nim%20%E6%B8%B8%E6%88%8F.md) | 简单 |
 |数组| [295. 数据流的中位数](https://github.com/asshead123/my-leetcode/blob/main/%E5%A0%86-295.%20%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 困难 |
 |二叉树| [297. 二叉树的序列化与反序列化](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md) | 困难 |
 |动态规划| [300. 最长递增子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-300.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
@@ -95,6 +96,7 @@
 |贪心| [860. 柠檬水找零](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.md) | 简单 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
 |数组| [875. 爱吃香蕉的珂珂](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 |
+|博弈| [877. 石子游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%8D%9A%E5%BC%88-877.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F.md) | 中等 |
 |动态规划| [887. 鸡蛋掉落](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-887.%20%E9%B8%A1%E8%9B%8B%E6%8E%89%E8%90%BD.md) | 困难 |
 |哈希表| [895. 最大频率栈](https://github.com/asshead123/my-leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8-895.%20%E6%9C%80%E5%A4%A7%E9%A2%91%E7%8E%87%E6%A0%88.md) | 困难 |
 |数组| [977. 有序数组的平方](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) | 简单 |
