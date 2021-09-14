@@ -61,6 +61,7 @@
 |动态规划| [300. 最长递增子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-300.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
 |动态规划| [312. 戳气球](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-312.%20%E6%88%B3%E6%B0%94%E7%90%83.md) | 困难 |
 |数组| [316. 去除重复字母](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-316.%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D.md) | 中等 |
+|数学| [319. 灯泡开关](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-319.%20%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3.md) | 中等 |
 |动态规划| [322. 零钱兑换](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) | 中等 |
 |链表| [328. 奇偶链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-328.%20%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.md) | 中等 |
 |DFS| [341. 扁平化嵌套列表迭代器](https://github.com/asshead123/my-leetcode/blob/main/DFS-341.%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8%E8%BF%AD%E4%BB%A3%E5%99%A8.md) | 中等 |
