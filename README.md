@@ -41,6 +41,7 @@
 |双向链表| [146. LRU 缓存机制](https://github.com/asshead123/my-leetcode/blob/main/%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8-146.%20LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) | 中等 |
 |栈| [155. 最小栈](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.md) | 简单 |
 |链表| [160. 相交链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md) | 简单 |
+|数组| [162. 寻找峰值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md) | 中等 |
 |数组| [167. 两数之和 II - 输入有序数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |
 |动态规划| [174. 地下城游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-174.%20%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.md) | 困难 |
 |动态规划| [198. 打家劫舍](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 中等 |
