@@ -36,6 +36,8 @@
 |二叉树| [113. 路径总和 II](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-113.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C%20II.md) | 中等 |
 |二叉树| [114. 二叉树展开为链表](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-114.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%95%E5%BC%80%E4%B8%BA%E9%93%BE%E8%A1%A8.md) | 中等 |
 |二叉树| [116. 从中序与后序遍历序列构造二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md) | 中等 |
+|数组| [121. 买卖股票的最佳时机](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 简单 |
+|贪心| [122. 买卖股票的最佳时机 II](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md) | 中等 |
 |DFS、并查集| [130. 被围绕的区域](https://github.com/asshead123/my-leetcode/blob/main/dfs-130.%20%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.md) | 中等 |
 |链表| [142. 环形链表 II](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 简单 |
 |双向链表| [146. LRU 缓存机制](https://github.com/asshead123/my-leetcode/blob/main/%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8-146.%20LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) | 中等 |
@@ -47,6 +49,7 @@
 |动态规划| [198. 打家劫舍](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 中等 |
 |二叉树| [199. 二叉树的右视图](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-199.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md) | 中等 |
 |链表| [203. 移除链表元素](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-203.%20%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md) | 简单 |
+|DFS| [212. 单词搜索 II](https://github.com/asshead123/my-leetcode/blob/main/DFS-212.%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | 困难 |
 |二叉树| [222. 完全二叉树的节点个数](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-222.%20%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.md) | 中等 |
 |数组| [225. 用队列实现栈](https://github.com/asshead123/my-leetcode/blob/main/%E9%98%9F%E5%88%97-225.%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md) | 简单 |
 |二叉树| [226. 翻转二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 简单 |
@@ -69,6 +72,7 @@
 |动态规划| [354. 俄罗斯套娃信封问题](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-354.%20%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%97%E5%A8%83%E4%BF%A1%E5%B0%81%E9%97%AE%E9%A2%98.md) | 困难 |
 |OOD| [355. 设计推特](https://github.com/asshead123/my-leetcode/blob/main/OOD-355.%20%E8%AE%BE%E8%AE%A1%E6%8E%A8%E7%89%B9.md) | 中等 |
 |数组| [380. O(1) 时间插入、删除和获取随机元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-380.%20O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.md) | 中等 |
+|栈| [402. 移掉 K 位数字](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-402.%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 中等 |
 |数组| [410. 分割数组的最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 困难 |
 |动态规划| [416. 分割等和子集](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md) | 中等 |
 |贪心| [435. 无重叠区间](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-435.%20%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md) | 中等 |
