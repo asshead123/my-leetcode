@@ -19,6 +19,7 @@
 |回溯| [51. N 皇后](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-51.%20N%20%E7%9A%87%E5%90%8E.md) | 困难 |
 |动态规划| [53. 最大子序和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) | 简单 |
 |贪心| [55. 跳跃游戏](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 中等 |
+|字符串| [58. 最后一个单词的长度](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-58.%20%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.md) | 简单 |
 |动态规划| [64. 最小路径和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 中等 |
 |动态规划| [70. 爬楼梯](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 简单 |
 |动态规划| [72. 编辑距离](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-72.%20%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md) | 困难 |
