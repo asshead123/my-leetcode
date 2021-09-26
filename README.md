@@ -13,6 +13,7 @@
 |链表| [25. K 个一组翻转链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 困难 |
 |数组| [26. 删除有序数组中的重复项](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-26.%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 |
 |数组| [27. 移除元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
+|数组| [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%EF%BC%89-34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md) | 中等 |
 |数组| [36. 有效的数独](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md) | 中等 |
 |栈| [42. 接雨水](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
 |贪心| [45. 跳跃游戏 II](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md) | 中等 |
