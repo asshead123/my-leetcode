@@ -76,6 +76,7 @@
 |DFS| [341. 扁平化嵌套列表迭代器](https://github.com/asshead123/my-leetcode/blob/main/DFS-341.%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8%E8%BF%AD%E4%BB%A3%E5%99%A8.md) | 中等 |
 |动态规划| [354. 俄罗斯套娃信封问题](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-354.%20%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%97%E5%A8%83%E4%BF%A1%E5%B0%81%E9%97%AE%E9%A2%98.md) | 困难 |
 |OOD| [355. 设计推特](https://github.com/asshead123/my-leetcode/blob/main/OOD-355.%20%E8%AE%BE%E8%AE%A1%E6%8E%A8%E7%89%B9.md) | 中等 |
+|位运算| [371. 两整数之和](https://github.com/asshead123/my-leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97-371.%20%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 |
 |数组| [380. O(1) 时间插入、删除和获取随机元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-380.%20O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.md) | 中等 |
 |栈| [402. 移掉 K 位数字](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-402.%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 中等 |
 |数组| [410. 分割数组的最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 困难 |
