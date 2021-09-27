@@ -100,6 +100,7 @@
 |二叉树| [538. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-538.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
 |数组| [567. 字符串的排列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 中等 |
 |动态规划| [583. 两个字符串的删除操作](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-583.%20%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.md) | 中等 |
+|动态规划| [639. 解码方法 II](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-639.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95%20II.md) | 困难 |
 |数学| [650. 只有两个键的键盘](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-650.%20%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E9%94%AE%E7%9A%84%E9%94%AE%E7%9B%98.md) | 中等 |
 |二叉树| [652. 寻找重复的子树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md) | 中等 |
 |二叉树| [654. 最大二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-654.%20%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
