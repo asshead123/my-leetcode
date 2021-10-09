@@ -51,6 +51,7 @@
 |栈| [155. 最小栈](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.md) | 简单 |
 |链表| [160. 相交链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md) | 简单 |
 |数组| [162. 寻找峰值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.md) | 中等 |
+|数学| [166. 分数到小数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-166.%20%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0.md) | 中等 |
 |数组| [167. 两数之和 II - 输入有序数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |
 |动态规划| [174. 地下城游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-174.%20%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.md) | 困难 |
 |数组| [189. 旋转数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md) | 中等 |
@@ -98,6 +99,7 @@
 |动态规划| [452. 用最少数量的箭引爆气球](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-452.%20%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md) | 中等 |
 |贪心| [455. 分发饼干](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md) | 简单 |
 |哈希表| [460. LFU 缓存](https://github.com/asshead123/my-leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8-460.%20LFU%20%E7%BC%93%E5%AD%98.md) | 困难 |
+|字符串| [482. 密钥格式化](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-482.%20%E5%AF%86%E9%92%A5%E6%A0%BC%E5%BC%8F%E5%8C%96.md) | 简单 |
 |栈| [496. 下一个更大元素 I](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |栈| [503. 下一个更大元素 II](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-503.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20II%5B%E4%B8%AD%E7%AD%89%5D.md) | 中等 |
 |动态规划| [514. 自由之路](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-514.%20%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.md) | 困难 |
