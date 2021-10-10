@@ -54,6 +54,7 @@
 |数学| [166. 分数到小数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-166.%20%E5%88%86%E6%95%B0%E5%88%B0%E5%B0%8F%E6%95%B0.md) | 中等 |
 |数组| [167. 两数之和 II - 输入有序数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |
 |动态规划| [174. 地下城游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-174.%20%E5%9C%B0%E4%B8%8B%E5%9F%8E%E6%B8%B8%E6%88%8F.md) | 困难 |
+|位运算| [187. 重复的DNA序列](https://github.com/asshead123/my-leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97-187.%20%E9%87%8D%E5%A4%8D%E7%9A%84DNA%E5%BA%8F%E5%88%97.md) | 中等 |
 |数组| [189. 旋转数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md) | 中等 |
 |动态规划| [198. 打家劫舍](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md) | 中等 |
 |二叉树| [199. 二叉树的右视图](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-199.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.md) | 中等 |
@@ -89,11 +90,14 @@
 |栈| [402. 移掉 K 位数字](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-402.%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 中等 |
 |位运算| [405. 数字转换为十六进制数](https://github.com/asshead123/my-leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97-405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md) | 简单 |
 |数组| [410. 分割数组的最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-410.%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md) | 困难 |
+|数组| [414. 第三大的数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-414.%20%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0.md) | 简单 |
 |动态规划| [416. 分割等和子集](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md) | 中等 |
 |链表| [430. 扁平化多级双向链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-430.%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%A4%9A%E7%BA%A7%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md) | 中等 |
+|字符串| [434. 字符串中的单词数](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-434.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%E6%95%B0.md) | 简单 |
 |贪心| [435. 无重叠区间](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-435.%20%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md) | 中等 |
 |前缀和| [437. 路径总和 III](https://github.com/asshead123/my-leetcode/blob/main/%E5%89%8D%E7%BC%80%E5%92%8C-437.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C%20III.md) | 中等 |
 |数组| [438. 找到字符串中所有字母异位词](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-438.%20%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) | 中等 |
+|数学| [441. 排列硬币](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-441.%20%E6%8E%92%E5%88%97%E7%A1%AC%E5%B8%81.md) | 简单 |
 |链表| [445. 两数相加 II](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-445.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.md) | 中等 |
 |数学| [447. 回旋镖的数量](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-447.%20%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F.md) | 中等 |
 |二叉树| [450. 删除二叉搜索树中的节点](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-450.%20%E5%88%A0%E9%99%A4%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md) | 中等 |
@@ -138,6 +142,7 @@
 |动态规划| [1143. 最长公共子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-1143.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
 |二叉搜索树| [1373. 二叉搜索子树的最大键值和](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-1373.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E5%AD%90%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E9%94%AE%E5%80%BC%E5%92%8C.md) | 困难 |
 |哈希表| [1436. 旅行终点站](https://github.com/asshead123/my-leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8-1436.%20%E6%97%85%E8%A1%8C%E7%BB%88%E7%82%B9%E7%AB%99.md) | 简单 |
+|数学| [5895. 获取单值网格的最小操作数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-5895.%20%E8%8E%B7%E5%8F%96%E5%8D%95%E5%80%BC%E7%BD%91%E6%A0%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E6%93%8D%E4%BD%9C%E6%95%B0.md) | 中等 |
 |链表| [剑指 Offer 06. 从尾到头打印链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2006.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单 |
 |链表| [剑指 Offer 10- I. 斐波那契数列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) | 简单 |
 |链表| [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md) | 简单 |
