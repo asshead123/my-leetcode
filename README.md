@@ -142,6 +142,8 @@
 |动态规划| [1143. 最长公共子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-1143.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
 |二叉搜索树| [1373. 二叉搜索子树的最大键值和](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-1373.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E5%AD%90%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E9%94%AE%E5%80%BC%E5%92%8C.md) | 困难 |
 |哈希表| [1436. 旅行终点站](https://github.com/asshead123/my-leetcode/blob/main/%E5%93%88%E5%B8%8C%E8%A1%A8-1436.%20%E6%97%85%E8%A1%8C%E7%BB%88%E7%82%B9%E7%AB%99.md) | 简单 |
+|状态压缩| [1755. 最接近目标值的子序列和](https://github.com/asshead123/my-leetcode/blob/main/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9-1755.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97%E5%92%8C.md) | 困难 |
+|数组| [5894. 至少在两个数组中出现的值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-5894.%20%E8%87%B3%E5%B0%91%E5%9C%A8%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E5%80%BC.md) | 简单 |
 |数学| [5895. 获取单值网格的最小操作数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-5895.%20%E8%8E%B7%E5%8F%96%E5%8D%95%E5%80%BC%E7%BD%91%E6%A0%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E6%93%8D%E4%BD%9C%E6%95%B0.md) | 中等 |
 |链表| [剑指 Offer 06. 从尾到头打印链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2006.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单 |
 |链表| [剑指 Offer 10- I. 斐波那契数列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) | 简单 |
