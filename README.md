@@ -68,6 +68,7 @@
 |栈| [232. 用栈实现队列](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) | 简单 |
 |二叉树| [236. 二叉树的最近公共祖先](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-236.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 中等 |
 |数组| [239. 滑动窗口最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
+|字符串| [273. 整数转换英文表示](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-273.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA.md) | 简单 |
 |动态规划| [279. 完全平方数](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md) | 中等 |
 |数组| [283. 移动零](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |迭代器| [284. 顶端迭代器](https://github.com/asshead123/my-leetcode/blob/main/%E8%BF%AD%E4%BB%A3%E5%99%A8-284.%20%E9%A1%B6%E7%AB%AF%E8%BF%AD%E4%BB%A3%E5%99%A8.md) | 中等 |
@@ -145,6 +146,7 @@
 |状态压缩| [1755. 最接近目标值的子序列和](https://github.com/asshead123/my-leetcode/blob/main/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9-1755.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97%E5%92%8C.md) | 困难 |
 |数组| [5894. 至少在两个数组中出现的值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-5894.%20%E8%87%B3%E5%B0%91%E5%9C%A8%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E5%80%BC.md) | 简单 |
 |数学| [5895. 获取单值网格的最小操作数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-5895.%20%E8%8E%B7%E5%8F%96%E5%8D%95%E5%80%BC%E7%BD%91%E6%A0%BC%E7%9A%84%E6%9C%80%E5%B0%8F%E6%93%8D%E4%BD%9C%E6%95%B0.md) | 中等 |
+|状态压缩| [5897. 将数组分成两个数组并最小化数组和的差](https://github.com/asshead123/my-leetcode/blob/main/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9-5897.%20%E5%B0%86%E6%95%B0%E7%BB%84%E5%88%86%E6%88%90%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E5%B9%B6%E6%9C%80%E5%B0%8F%E5%8C%96%E6%95%B0%E7%BB%84%E5%92%8C%E7%9A%84%E5%B7%AE.md) | 困难 |
 |链表| [剑指 Offer 06. 从尾到头打印链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2006.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md) | 简单 |
 |链表| [剑指 Offer 10- I. 斐波那契数列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md) | 简单 |
 |链表| [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md) | 简单 |
