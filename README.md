@@ -154,6 +154,7 @@
 |链表| [剑指 Offer 24. 反转链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 简单 |
 |数组| [剑指 Offer 35. 复杂链表的复制](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2035.%20%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.md) | 中等 |
 |链表| [剑指 Offer II 027. 回文链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%20II%20027.%20%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md) | 简单 |
+|数组| [剑指 Offer II 069. 山峰数组的顶部](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-%E5%89%91%E6%8C%87%20Offer%20II%20069.%20%E5%B1%B1%E5%B3%B0%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%B6%E9%83%A8.md) | 简单 |
 |链表| [面试题 02.04. 分割链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E5%89%91%E6%8C%87%20Offer%2024.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 简单 |
 |数组| [面试题 10.03. 搜索旋转数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-%E9%9D%A2%E8%AF%95%E9%A2%98%2010.03.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md) | 中等 |
 |数组| [面试题 16.16. 部分排序](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-%E9%9D%A2%E8%AF%95%E9%A2%98%2002.04.%20%E5%88%86%E5%89%B2%E9%93%BE%E8%A1%A8.md) | 中等 |
