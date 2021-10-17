@@ -71,6 +71,7 @@
 |数组| [239. 滑动窗口最大值](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
 |字符串| [273. 整数转换英文表示](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-273.%20%E6%95%B4%E6%95%B0%E8%BD%AC%E6%8D%A2%E8%8B%B1%E6%96%87%E8%A1%A8%E7%A4%BA.md) | 简单 |
 |动态规划| [279. 完全平方数](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md) | 中等 |
+|回溯| [282. 给表达式添加运算符](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-282.%20%E7%BB%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B7%BB%E5%8A%A0%E8%BF%90%E7%AE%97%E7%AC%A6.md) | 困难 |
 |数组| [283. 移动零](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%5B%E7%AE%80%E5%8D%95%5D.md) | 简单 |
 |迭代器| [284. 顶端迭代器](https://github.com/asshead123/my-leetcode/blob/main/%E8%BF%AD%E4%BB%A3%E5%99%A8-284.%20%E9%A1%B6%E7%AB%AF%E8%BF%AD%E4%BB%A3%E5%99%A8.md) | 中等 |
 |数学| [292. Nim 游戏](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-292.%20Nim%20%E6%B8%B8%E6%88%8F.md) | 简单 |
