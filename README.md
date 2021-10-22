@@ -66,7 +66,7 @@
 |数学| [223. 矩形面积](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-223.%20%E7%9F%A9%E5%BD%A2%E9%9D%A2%E7%A7%AF.md) | 中等 |
 |数组| [225. 用队列实现栈](https://github.com/asshead123/my-leetcode/blob/main/%E9%98%9F%E5%88%97-225.%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md) | 简单 |
 |二叉树| [226. 翻转二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 简单 |
-|数组| [225. 用队列实现栈](https://github.com/asshead123/my-leetcode/blob/main/%E9%98%9F%E5%88%97-225.%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md) | 简单 |
+|数组| [229. 求众数 II](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-229.%20%E6%B1%82%E4%BC%97%E6%95%B0%20II.md) | 中等 |
 |二叉搜索树| [230. 二叉搜索树中第K小的元素](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md) | 中等 |
 |栈| [232. 用栈实现队列](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) | 简单 |
 |二叉树| [236. 二叉树的最近公共祖先](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-236.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) | 中等 |
