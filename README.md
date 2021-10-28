@@ -19,6 +19,7 @@
 |数组| [36. 有效的数独](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md) | 中等 |
 |栈| [42. 接雨水](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4%5B%E5%9B%B0%E9%9A%BE%5D.md) | 困难 |
 |贪心| [45. 跳跃游戏 II](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md) | 中等 |
+|贪心| [47. 全排列 II](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-47.%20%E5%85%A8%E6%8E%92%E5%88%97%20II.md) | 中等 |
 |回溯| [51. N 皇后](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-51.%20N%20%E7%9A%87%E5%90%8E.md) | 困难 |
 |动态规划| [53. 最大子序和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) | 简单 |
 |贪心| [55. 跳跃游戏](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-55.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md) | 中等 |
@@ -137,6 +138,7 @@
 |动态规划| [787. K 站中转内最便宜的航班](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-787.%20K%20%E7%AB%99%E4%B8%AD%E8%BD%AC%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%88%AA%E7%8F%AD.md) | 中等 |
 |图| [797. 所有可能的路径](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%BE-797.%20%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
 |贪心| [860. 柠檬水找零](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.md) | 简单 |
+|回溯| [869. 重新排序得到 2 的幂](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-869.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%BA%8F%E5%BE%97%E5%88%B0%202%20%E7%9A%84%E5%B9%82.md) | 中等 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
 |数组| [875. 爱吃香蕉的珂珂](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-875.%20%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.md) | 中等 |
 |博弈| [877. 石子游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%8D%9A%E5%BC%88-877.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F.md) | 中等 |
