@@ -89,6 +89,7 @@
 |动态规划| [322. 零钱兑换](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md) | 中等 |
 |数学| [326. 3的幂](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-326.%203%E7%9A%84%E5%B9%82.md) | 简单 |
 |链表| [328. 奇偶链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-328.%20%E5%A5%87%E5%81%B6%E9%93%BE%E8%A1%A8.md) | 中等 |
+|数学| [335. 路径交叉](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-335.%20%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89.md) | 困难 |
 |DFS| [341. 扁平化嵌套列表迭代器](https://github.com/asshead123/my-leetcode/blob/main/DFS-341.%20%E6%89%81%E5%B9%B3%E5%8C%96%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8%E8%BF%AD%E4%BB%A3%E5%99%A8.md) | 中等 |
 |并查集| [352. 将数据流变为多个不相交区间](https://github.com/asshead123/my-leetcode/blob/main/%E5%B9%B6%E6%9F%A5%E9%9B%86-352.%20%E5%B0%86%E6%95%B0%E6%8D%AE%E6%B5%81%E5%8F%98%E4%B8%BA%E5%A4%9A%E4%B8%AA%E4%B8%8D%E7%9B%B8%E4%BA%A4%E5%8C%BA%E9%97%B4.md) | 困难 |
 |动态规划| [354. 俄罗斯套娃信封问题](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-354.%20%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%97%E5%A8%83%E4%BF%A1%E5%B0%81%E9%97%AE%E9%A2%98.md) | 困难 |
