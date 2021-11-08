@@ -84,6 +84,7 @@
 |数学| [292. Nim 游戏](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-292.%20Nim%20%E6%B8%B8%E6%88%8F.md) | 简单 |
 |数组| [295. 数据流的中位数](https://github.com/asshead123/my-leetcode/blob/main/%E5%A0%86-295.%20%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 困难 |
 |二叉树| [297. 二叉树的序列化与反序列化](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-297.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md) | 困难 |
+|字符串| [299. 猜数字游戏](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-299.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E6%B8%B8%E6%88%8F.md) | 中等 |
 |动态规划| [300. 最长递增子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-300.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
 |回溯| [301. 删除无效的括号](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-301.%20%E5%88%A0%E9%99%A4%E6%97%A0%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md) | 困难 |
 |动态规划| [312. 戳气球](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-312.%20%E6%88%B3%E6%B0%94%E7%90%83.md) | 困难 |
