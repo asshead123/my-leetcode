@@ -141,6 +141,7 @@
 |二叉树| [652. 寻找重复的子树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.md) | 中等 |
 |二叉树| [654. 最大二叉树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-654.%20%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 |动态规划| [673. 最长递增子序列的个数](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-673.%20%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97%E7%9A%84%E4%B8%AA%E6%95%B0.md) | 中等 |
+|前缀树| [677. 键值映射](https://github.com/asshead123/my-leetcode/blob/main/%E5%89%8D%E7%BC%80%E6%A0%91-677.%20%E9%94%AE%E5%80%BC%E6%98%A0%E5%B0%84.md) | 中等 |
 |数组| [710. 黑名单中的随机数](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-710.%20%E9%BB%91%E5%90%8D%E5%8D%95%E4%B8%AD%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B0.md) | 困难 |
 |动态规划| [712. 两个字符串的最小ASCII删除和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-712.%20%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%B0%8FASCII%E5%88%A0%E9%99%A4%E5%92%8C.md) | 中等 |
 |链表| [725. 分隔链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-725.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) | 中等 |
