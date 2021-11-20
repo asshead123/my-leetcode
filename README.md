@@ -138,6 +138,7 @@
 |DFS| [563. 二叉树的坡度](https://github.com/asshead123/my-leetcode/blob/main/DFS-563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 |
 |数组| [567. 字符串的排列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 中等 |
 |动态规划| [583. 两个字符串的删除操作](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-583.%20%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.md) | 中等 |
+|数组| [594. 最长和谐子序列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-594.%20%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.md) | 简单 |
 |动态规划| [629. K个逆序对数组](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-629.%20K%E4%B8%AA%E9%80%86%E5%BA%8F%E5%AF%B9%E6%95%B0%E7%BB%84.md) | 困难 |
 |回溯| [638. 大礼包](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-638.%20%E5%A4%A7%E7%A4%BC%E5%8C%85.md) | 中等 |
 |动态规划| [639. 解码方法 II](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-639.%20%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95%20II.md) | 困难 |
