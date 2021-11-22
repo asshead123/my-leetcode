@@ -103,6 +103,7 @@
 |位运算| [371. 两整数之和](https://github.com/asshead123/my-leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97-371.%20%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 |
 |动态规划| [375. 猜数字大小 II](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-375.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F%20II.md) | 中等 |
 |数组| [380. O(1) 时间插入、删除和获取随机元素](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-380.%20O(1)%20%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.md) | 中等 |
+|数组| [384. 打乱数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-384.%20%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.md) | 中等 |
 |数组| [391. 完美矩形](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-391.%20%E5%AE%8C%E7%BE%8E%E7%9F%A9%E5%BD%A2.md) | 困难 |
 |贪心| [397. 整数替换](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-397.%20%E6%95%B4%E6%95%B0%E6%9B%BF%E6%8D%A2.md) | 中等 |
 |栈| [402. 移掉 K 位数字](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-402.%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 中等 |
@@ -134,6 +135,7 @@
 |动态规划| [518. 零钱兑换 II](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.md) | 中等 |
 |数组| [524. 通过删除字母匹配到字典里最长单词](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-524.%20%E9%80%9A%E8%BF%87%E5%88%A0%E9%99%A4%E5%AD%97%E6%AF%8D%E5%8C%B9%E9%85%8D%E5%88%B0%E5%AD%97%E5%85%B8%E9%87%8C%E6%9C%80%E9%95%BF%E5%8D%95%E8%AF%8D.md) | 中等 |
 |二叉树| [538. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-538.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
+|树| [559. N 叉树的最大深度](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%91-559.%20N%20%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md) | 简单 |
 |前缀和| [560. 和为 K 的子数组](https://github.com/asshead123/my-leetcode/blob/main/%E5%89%8D%E7%BC%80%E5%92%8C-560.%20%E5%92%8C%E4%B8%BA%20K%20%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md) | 中等 |
 |DFS| [563. 二叉树的坡度](https://github.com/asshead123/my-leetcode/blob/main/DFS-563.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.md) | 简单 |
 |数组| [567. 字符串的排列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84%EF%BC%88%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%EF%BC%89-567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) | 中等 |
