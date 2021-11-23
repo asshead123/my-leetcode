@@ -155,6 +155,7 @@
 |栈| [739. 每日温度](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-739.%20%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md) | 简单 |
 |动态规划| [787. K 站中转内最便宜的航班](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-787.%20K%20%E7%AB%99%E4%B8%AD%E8%BD%AC%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%88%AA%E7%8F%AD.md) | 中等 |
 |图| [797. 所有可能的路径](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%BE-797.%20%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
+|字符串| [859. 亲密字符串](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-859.%20%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 简单 |
 |贪心| [860. 柠檬水找零](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.md) | 简单 |
 |回溯| [869. 重新排序得到 2 的幂](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%9E%E6%BA%AF-869.%20%E9%87%8D%E6%96%B0%E6%8E%92%E5%BA%8F%E5%BE%97%E5%88%B0%202%20%E7%9A%84%E5%B9%82.md) | 中等 |
 |数组| [870. 优势洗牌](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-870.%20%E4%BC%98%E5%8A%BF%E6%B4%97%E7%89%8C.md) | 中等 |
