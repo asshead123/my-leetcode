@@ -154,6 +154,7 @@
 |动态规划| [712. 两个字符串的最小ASCII删除和](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-712.%20%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%B0%8FASCII%E5%88%A0%E9%99%A4%E5%92%8C.md) | 中等 |
 |链表| [725. 分隔链表](https://github.com/asshead123/my-leetcode/blob/main/%E9%93%BE%E8%A1%A8-725.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md) | 中等 |
 |栈| [739. 每日温度](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-739.%20%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md) | 简单 |
+|优先队列| [786. 第 K 个最小的素数分数](https://github.com/asshead123/my-leetcode/blob/main/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97-786.%20%E7%AC%AC%20K%20%E4%B8%AA%E6%9C%80%E5%B0%8F%E7%9A%84%E7%B4%A0%E6%95%B0%E5%88%86%E6%95%B0.md) | 困难 |
 |动态规划| [787. K 站中转内最便宜的航班](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-787.%20K%20%E7%AB%99%E4%B8%AD%E8%BD%AC%E5%86%85%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E8%88%AA%E7%8F%AD.md) | 中等 |
 |图| [797. 所有可能的路径](https://github.com/asshead123/my-leetcode/blob/main/%E5%9B%BE-797.%20%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
 |字符串| [859. 亲密字符串](https://github.com/asshead123/my-leetcode/blob/main/%E5%AD%97%E7%AC%A6%E4%B8%B2-859.%20%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 简单 |
