@@ -106,6 +106,7 @@
 |数组| [384. 打乱数组](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-384.%20%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.md) | 中等 |
 |数组| [391. 完美矩形](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-391.%20%E5%AE%8C%E7%BE%8E%E7%9F%A9%E5%BD%A2.md) | 困难 |
 |贪心| [397. 整数替换](https://github.com/asshead123/my-leetcode/blob/main/%E8%B4%AA%E5%BF%83-397.%20%E6%95%B4%E6%95%B0%E6%9B%BF%E6%8D%A2.md) | 中等 |
+|数学| [400. 第 N 位数字](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E5%AD%A6-400.%20%E7%AC%AC%20N%20%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 中等 |
 |栈| [402. 移掉 K 位数字](https://github.com/asshead123/my-leetcode/blob/main/%E6%A0%88-402.%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97.md) | 中等 |
 |位运算| [405. 数字转换为十六进制数](https://github.com/asshead123/my-leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97-405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.md) | 简单 |
 |BFS| [407. 接雨水 II](https://github.com/asshead123/my-leetcode/blob/main/BFS-407.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4%20II.md) | 困难 |
