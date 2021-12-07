@@ -170,6 +170,7 @@
 |并查集| [990. 等式方程的可满足性](https://github.com/asshead123/my-leetcode/blob/main/%E5%B9%B6%E6%9F%A5%E9%9B%86-990.%20%E7%AD%89%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%8F%AF%E6%BB%A1%E8%B6%B3%E6%80%A7.md) | 中等 |
 |数组| [1011. 在 D 天内送达包裹的能力](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-1011.%20%E5%9C%A8%20D%20%E5%A4%A9%E5%86%85%E9%80%81%E8%BE%BE%E5%8C%85%E8%A3%B9%E7%9A%84%E8%83%BD%E5%8A%9B.md) | 中等 |
 |动态规划| [1024. 视频拼接](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-1024.%20%E8%A7%86%E9%A2%91%E6%8B%BC%E6%8E%A5.md) | 中等 |
+|DFS| [1034. 边界着色](https://github.com/asshead123/my-leetcode/blob/main/DFS-1034.%20%E8%BE%B9%E7%95%8C%E7%9D%80%E8%89%B2.md) | 中等 |
 |二叉搜索树| [1038. 把二叉搜索树转换为累加树](https://github.com/asshead123/my-leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91-1038.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md) | 中等 |
 |数组| [1081. 不同字符的最小子序列](https://github.com/asshead123/my-leetcode/blob/main/%E6%95%B0%E7%BB%84-1081.%20%E4%B8%8D%E5%90%8C%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
 |动态规划| [1143. 最长公共子序列](https://github.com/asshead123/my-leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-1143.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md) | 中等 |
